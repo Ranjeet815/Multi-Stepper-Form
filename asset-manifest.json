@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ranjeet815/Multi-Stepper-Form/static/css/main.1df28d74.css",
+    "main.js": "/Ranjeet815/Multi-Stepper-Form/static/js/main.087c9149.js",
+    "index.html": "/Ranjeet815/Multi-Stepper-Form/index.html",
+    "main.1df28d74.css.map": "/Ranjeet815/Multi-Stepper-Form/static/css/main.1df28d74.css.map",
+    "main.087c9149.js.map": "/Ranjeet815/Multi-Stepper-Form/static/js/main.087c9149.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1df28d74.css",
+    "static/js/main.087c9149.js"
+  ]
+}
